@@ -1,0 +1,3 @@
+#define MY_VAR @MY_VAR@
+
+#cmakedefine USE_MYMATH
